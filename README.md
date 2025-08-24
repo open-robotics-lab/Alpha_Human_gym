@@ -52,7 +52,7 @@ export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/home/user/anaconda3/envs/Alpha_Human_
 
 ```
 AttributeError: module 'numpy' has no attribute 'float'.
-pip uninstall numpy==1.2
+pip uninstall numpy==1.20
 pip install numpy==1.23.5
 ```
 
