@@ -1,3 +1,5 @@
+![1756024175889](doc/H1.png)
+
 # Isaac Gym Environments for Legged Robots
 
 This repository provides the environment used to train Alpha-Human-H1(and other robots) to walk on rough terrain using NVIDIA's Isaac Gym.
