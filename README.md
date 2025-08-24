@@ -125,7 +125,6 @@ Then unzip the downloaded compressed file to the sim2real folder, the download a
 
 ```
 https://pytorch.org/
-
 ```
 
 Open the` /H1/sim2real/src/sim2real_h1.cpp` file, change the IP address to the control board (odroid) IP address.
