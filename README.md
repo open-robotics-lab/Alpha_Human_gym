@@ -6,7 +6,7 @@ It includes all components needed for sim-to-real transfer: actuator network, fr
 
 **Maintainer**: Darren Wang
 
-**Contact**: 
+**Contact**: wang.gov@163.com; wang.gov@outlook.com
 
 # Installation
 
